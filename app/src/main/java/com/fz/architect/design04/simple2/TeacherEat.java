@@ -3,7 +3,7 @@ package com.fz.architect.design04.simple2;
 import android.util.Log;
 
 /**
- * Created by hcDarren on 2017/9/30.
+ * Created by fz on 2017/9/30.
  */
 
 public class TeacherEat implements Eat {

@@ -5,8 +5,10 @@ import android.view.ViewGroup;
 
 import java.util.ArrayList;
 
+import androidx.recyclerview.widget.RecyclerView;
+
 /**
- * Created by hcDarren on 2017/9/30.
+ * Created by fz on 2017/9/30.
  * 装饰设计模式的 RecyclerView.Adapter，我们对其进行功能扩展，使它支持头部和底部的添加
  */
 public class WrapRecyclerAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{

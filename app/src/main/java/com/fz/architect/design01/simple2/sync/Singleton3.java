@@ -2,7 +2,7 @@ package com.fz.architect.design01.simple2.sync;
 
 /**
  * 单例设计模式 - 懒汉式（同步锁 DCL）
- * Created by hcDarren on 2017/9/17.
+ * Created by fz on 2017/9/17.
  */
 public class Singleton3 {
     // 只有使用的时候才会去 new 对象 ，可能更加高效

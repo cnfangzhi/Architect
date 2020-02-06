@@ -2,7 +2,7 @@ package com.fz.architect.design03.simple3;
 
 /**
  * 工厂设计模式 - 简单工厂模式
- * Created by hcDarren on 2017/9/24.
+ * Created by fz on 2017/9/24.
  */
 public class IOHandlerFactory {
     public enum IOType{

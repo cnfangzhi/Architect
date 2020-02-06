@@ -5,6 +5,7 @@ import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 
+import com.fz.architect.R;
 import com.fz.architect.design01.manager.ActivityManager;
 
 public class MainActivity extends AppCompatActivity {

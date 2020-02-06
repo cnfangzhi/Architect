@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         try {
             FileReader fr = new FileReader("xxxx.file");
+
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }

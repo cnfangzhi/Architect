@@ -1,6 +1,9 @@
 package com.fz.architect.design02;
 
+import android.app.Dialog;
 import android.os.Bundle;
+
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 import android.view.ViewGroup;
@@ -46,5 +49,7 @@ public class MainActivity extends AppCompatActivity {
         //                        client.setInterceptor();
         /*OkHttpClient client = new OkHttpClient.Builder().connectTimeout()
                 .addNetworkInterceptor().addInterceptor().build();*/
+        Dialog dialog = new AlertDialog.Builder(this)
+                .setTitle("标题").create();
     }
 }

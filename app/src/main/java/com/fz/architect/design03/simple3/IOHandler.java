@@ -2,7 +2,7 @@ package com.fz.architect.design03.simple3;
 
 /**
  * 数据存储的一些规范
- * Created by hcDarren on 2017/9/24.
+ * Created by fz on 2017/9/24.
  */
 public interface IOHandler {
     /*************save data start***************/

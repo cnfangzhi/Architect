@@ -3,13 +3,13 @@ package com.fz.architect.design03.simple3;
 import com.fz.architect.design03.simple2.PreferencesUtils;
 
 /**
- * Created by hcDarren on 2017/9/24.
+ * Created by fz on 2017/9/24.
  */
 
 public class PreferencesIOHandler implements IOHandler{
     @Override
     public void save(String key, String value) {
-        PreferencesUtils.getInstance().saveString(key,value);
+        PreferencesUtils.getInstance().saveString(key,value).commit();
     }
 
     @Override

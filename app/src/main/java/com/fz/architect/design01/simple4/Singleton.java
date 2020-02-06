@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * 单例设计模式 - 容器管理 系统的服务就是用的这种
- * Created by hcDarren on 2017/9/17.
+ * Created by fz on 2017/9/17.
  */
 
 public class Singleton {

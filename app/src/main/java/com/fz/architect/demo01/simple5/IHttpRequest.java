@@ -5,7 +5,7 @@ import android.content.Context;
 import java.util.Map;
 
 /**
- * Created by hcDarren on 2017/8/26.
+ * Created by fz on 2017/8/26.
  */
 
 public interface IHttpRequest {

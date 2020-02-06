@@ -5,7 +5,7 @@ import android.view.ViewGroup;
 
 /**
  * 导航栏的规范
- * Created by hcDarren on 2017/9/23.
+ * Created by fz on 2017/9/23.
  */
 public interface INavigation {
     void createNavigationBar();

@@ -2,7 +2,7 @@ package com.fz.architect.design01.simple3;
 
 /**
  * 单例设计模式 - 静态内部类（比较常用）
- * Created by hcDarren on 2017/9/17.
+ * Created by fz on 2017/9/17.
  */
 
 public class Singleton {

@@ -4,7 +4,7 @@ import android.content.Intent;
 import androidx.appcompat.app.AppCompatActivity;
 
 /**
- * Created by hcDarren on 2017/9/4.
+ * Created by fz on 2017/9/4.
  */
 
 public class BaseActivity extends AppCompatActivity{

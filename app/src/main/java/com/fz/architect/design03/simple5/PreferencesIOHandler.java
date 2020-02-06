@@ -3,7 +3,7 @@ package com.fz.architect.design03.simple5;
 import com.fz.architect.design03.simple2.PreferencesUtils;
 
 /**
- * Created by hcDarren on 2017/9/24.
+ * Created by fz on 2017/9/24.
  */
 
 public class PreferencesIOHandler implements IOHandler {

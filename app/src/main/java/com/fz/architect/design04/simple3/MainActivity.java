@@ -2,6 +2,9 @@ package com.fz.architect.design04.simple3;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
+
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -20,13 +23,13 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_main4);
         mItems = new ArrayList<>();
         for (int i=0;i<100;i++){
             mItems.add(i);
         }
 
-        mRecyclerView = (WrapRecyclerView) findViewById(R.id.recycler_view);
+        mRecyclerView = findViewById(R.id.recycler_view);
         // 一般的写法new对象调用方法
         PersonEat eat = new PersonEat();
         TeacherEat teacherEat = new TeacherEat(eat);

@@ -8,7 +8,7 @@ import org.xutils.x;
 import java.util.Map;
 
 /**
- * Created by hcDarren on 2017/8/26.
+ * Created by fz on 2017/8/26.
  * 新增更加强大的网络第三方框架
  */
 public class XUtilsRequest implements IHttpRequest{

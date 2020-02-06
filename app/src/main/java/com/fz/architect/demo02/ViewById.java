@@ -6,7 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * Created by hcDarren on 2017/9/4.
+ * Created by fz on 2017/9/4.
  */
 // 上面必须要有两个标识
 @Target(ElementType.FIELD)    // Target 放在哪里？哪里可以使用  FIELD 属性 TYPE 类上 METHOD 属性

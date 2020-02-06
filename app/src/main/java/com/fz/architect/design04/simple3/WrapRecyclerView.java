@@ -5,12 +5,13 @@ import android.util.AttributeSet;
 import android.view.View;
 
 import androidx.annotation.Nullable;
+import androidx.recyclerview.widget.RecyclerView;
 
 /**
- * Created by hcDarren on 2017/9/30.
+ * Created by fz on 2017/9/30.
  */
 
-public class WrapRecyclerView extends RecyclerView{
+public class WrapRecyclerView extends RecyclerView {
 
     private WrapRecyclerAdapter mAdapter;
 

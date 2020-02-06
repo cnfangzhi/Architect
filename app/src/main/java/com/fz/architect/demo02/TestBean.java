@@ -3,7 +3,7 @@ package com.fz.architect.demo02;
 import android.util.Log;
 
 /**
- * Created by hcDarren on 2017/9/4.
+ * Created by fz on 2017/9/4.
  */
 
 public class TestBean {

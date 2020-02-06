@@ -8,7 +8,7 @@ import android.widget.TextView;
 import com.fz.architect.R;
 
 /**
- * Created by hcDarren on 2017/9/23.
+ * Created by fz on 2017/9/23.
  * 可以拿过来直接使用的 默认样式导航栏
  */
 
