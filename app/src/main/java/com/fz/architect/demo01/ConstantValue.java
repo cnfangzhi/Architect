@@ -2,8 +2,8 @@ package com.fz.architect.demo01;
 
 /**
  * description:
- * author: Darren on 2017/8/21 11:26
- * email: 240336124@qq.com
+ * author: fz on 2017/8/21 11:26
+ * email: 514905121@qq.com
  * version: 1.0
  */
 public class ConstantValue {

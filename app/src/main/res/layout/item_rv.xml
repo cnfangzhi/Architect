@@ -7,4 +7,4 @@
     android:layout_height="wrap_content"
     android:padding="10dp"
     android:text="text"
-    tools:context="com.darren.architect_day11.simple1.MainActivity"/>
+    />

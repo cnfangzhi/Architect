@@ -2,6 +2,7 @@ package com.fz.architect.demo01;
 
 import android.app.Application;
 
+import com.fz.architect.BuildConfig;
 import com.fz.architect.demo01.simple5.HttpUtils;
 import com.fz.architect.demo01.simple5.OKHttpRequest;
 import com.fz.architect.demo01.simple5.PreferencesUtil;
@@ -10,8 +11,8 @@ import org.xutils.x;
 
 /**
  * description:
- * author: Darren on 2017/8/21 15:05
- * email: 240336124@qq.com
+ * author: fz on 2017/8/21 15:05
+ * email: 514905121@qq.com
  * version: 1.0
  */
 public class BaseApplication extends Application {

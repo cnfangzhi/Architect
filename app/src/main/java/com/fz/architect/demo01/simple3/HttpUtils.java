@@ -18,8 +18,8 @@ import okhttp3.Response;
 
 /**
  * description:
- * author: Darren on 2017/8/21 11:36
- * email: 240336124@qq.com
+ * author: fz on 2017/8/21 11:36
+ * email: 514905121@qq.com
  * version: 1.0
  */
 public class HttpUtils {
