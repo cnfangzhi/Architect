@@ -16,3 +16,5 @@
 15、虚继承、虚函数、动态、模板函数 simple14.cpp
 16、模板函数、模板类 simple15.cpp
 17、类型转换、异常、string simple16.cpp
+18、Const关键字增强和引用的本质剖析 simple17.cpp
+19、STL 容器的基本介绍和使用 simple18.cpp
